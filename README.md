@@ -1,7 +1,7 @@
 # Control de Velocidad para un Motor DC con PID
 
 ## Introducción
-En este proyecto se implementó un sistema de control PID digital para regular la velocidad de un motor de corriente continua. Utilizando un Arduino Uno y un encoder, se controló la velocidad del motor a través de la modulación por ancho de pulso (PWM) y un puente H L298N.
+En este proyecto se implementó un sistema de control PID digital para regular la velocidad de un motor de corriente continua. Utilizando un Arduino Uno y un Motor DC con encoder, se controló la velocidad del motor a través de la modulación por ancho de pulso (PWM) y un puente H L298N.
 
 ## Objetivo
 Desarrollar un sistema de control de velocidad para el motor DC mediante un controlador PID digital, logrando mantener la velocidad deseada bajo diferentes condiciones de carga.
